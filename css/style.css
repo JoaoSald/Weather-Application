@@ -16,7 +16,6 @@ footer{
   height: 27px;
   color: #ffff;
   position: absolute;
-  bottom: 0;
   width: 100%;
 }
 footer > p > a {
