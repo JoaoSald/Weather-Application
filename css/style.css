@@ -1,5 +1,5 @@
 body {
-  background: #233047;
+  background: #361247;
 }
 
 .container {
@@ -9,3 +9,18 @@ body {
 h1 {
   font-size: 2.2rem;
 }
+
+footer{
+  text-align: center;
+  background-color: rgb(245, 63, 63);
+  height: 27px;
+  color: #ffff;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+footer > p > a {
+  color: #ffff;
+  font-weight: bolder;
+   
+ }
